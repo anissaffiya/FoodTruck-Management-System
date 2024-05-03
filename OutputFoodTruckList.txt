@@ -1,0 +1,127 @@
+
+FoodTruck Directories:
+
+FoodTruckCat: Snack
+FoodTruck location: Georgetown
+FoodTruckID: FT001
+Sales: 1500.5
+
+FoodTruckCat: Seafood
+FoodTruck location: Dungun
+FoodTruckID: FT002
+Sales: 1200.75
+
+FoodTruckCat: Beverage
+FoodTruck location: Kuantan
+FoodTruckID: FT003
+Sales: 900.3
+
+FoodTruckCat: Snack
+FoodTruck location: Georgetown
+FoodTruckID: FT004
+Sales: 1100.25
+
+FoodTruckCat: Seafood
+FoodTruck location: Dungun
+FoodTruckID: FT005
+Sales: 750.6
+
+FoodTruckCat: Beverage
+FoodTruck location: Kuantan
+FoodTruckID: FT006
+Sales: 1300.4
+
+FoodTruckCat: Snack
+FoodTruck location: Georgetown
+FoodTruckID: FT007
+Sales: 1000.5
+
+FoodTruckCat: Seafood
+FoodTruck location: Dungun
+FoodTruckID: FT008
+Sales: 850.25
+
+FoodTruckCat: Beverage
+FoodTruck location: Kuantan
+FoodTruckID: FT009
+Sales: 950.8
+
+FoodTruckCat: Snack
+FoodTruck location: Georgetown
+FoodTruckID: FT010
+Sales: 1200.65
+
+FoodTruckCat: Seafood
+FoodTruck location: Dungun
+FoodTruckID: FT011
+Sales: 700.4
+
+FoodTruckCat: Beverage
+FoodTruck location: Kuantan
+FoodTruckID: FT012
+Sales: 1250.3
+
+FoodTruckCat: Snack
+FoodTruck location: Georgetown
+FoodTruckID: FT013
+Sales: 1100.2
+
+FoodTruckCat: Seafood
+FoodTruck location: Dungun
+FoodTruckID: FT014
+Sales: 900.5
+
+FoodTruckCat: Beverage
+FoodTruck location: Kuantan
+FoodTruckID: FT015
+Sales: 850.75
+
+FoodTruckCat: Snack
+FoodTruck location: Georgetown
+FoodTruckID: FT016
+Sales: 1000.6
+
+FoodTruckCat: Seafood
+FoodTruck location: Dungun
+FoodTruckID: FT017
+Sales: 950.7
+
+FoodTruckCat: Beverage
+FoodTruck location: Kuantan
+FoodTruckID: FT018
+Sales: 800.4
+
+FoodTruckCat: Snack
+FoodTruck location: Georgetown
+FoodTruckID: FT019
+Sales: 850.5
+
+FoodTruckCat: Seafood
+FoodTruck location: Dungun
+FoodTruckID: FT020
+Sales: 900.8
+
+FoodTruckCat: Beverage
+FoodTruck location: Kuantan
+FoodTruckID: FT021
+Sales: 1000.9
+
+FoodTruckCat: Snack
+FoodTruck location: Georgetown
+FoodTruckID: FT022
+Sales: 750.6
+
+FoodTruckCat: Seafood
+FoodTruck location: Dungun
+FoodTruckID: FT023
+Sales: 1100.3
+
+FoodTruckCat: Beverage
+FoodTruck location: Kuantan
+FoodTruckID: FT024
+Sales: 850.4
+
+FoodTruckCat: Snack
+FoodTruck location: Georgetown
+FoodTruckID: FT025
+Sales: 900.6
